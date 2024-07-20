@@ -1,6 +1,6 @@
 💫 **About Me**:
 ---
-Hi, I’m Trivickram Baratam 👋  
+Hi, I’m Trivickram 👋  
 👀 I’m currently working on VLSI and Artificial Intelligence/Machine Learning.  
 💞️ I’m looking to collaborate on projects within these domains.  
 📫 How to reach me: 📧 baratamtrivickram@gmail.com | 🔗 LinkedIn - [Trivickram Baratam](https://www.linkedin.com/in/trivickram-baratam-057476275/)  
